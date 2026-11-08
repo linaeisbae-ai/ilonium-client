@@ -144,12 +144,10 @@ jobs:
             mingw-w64-x86_64-sdl3
             mingw-w64-x86_64-sdl3-image
             mingw-w64-x86_64-sdl3-mixer
-            mingw-w64-x86_64-mimalloc
             mingw-w64-x86_64-libxml2
             mingw-w64-x86_64-curl
             mingw-w64-x86_64-libpng
             mingw-w64-x86_64-libjpeg-turbo
-            mingw-w64-x86_64-recode
             mingw-w64-x86_64-ca-certificates
             git
             zip
